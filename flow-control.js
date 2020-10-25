@@ -18,6 +18,6 @@ function switchAge(age) {
 }
 function basicTeenager (age) numbers_ranges(x,y) {
   if ((x >= 13 && x<=19 && y >=19 && y<=13))
-  console.log("You are a teenager!");
+  return ("You are a teenager!");
   else return false;
 }
