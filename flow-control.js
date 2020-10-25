@@ -16,6 +16,8 @@ function ternaryTeenager(age) {
 function switchAge(age) {
 
 }
-int number = 20;
-if ageIs (13,14,15,16,17,18,19);
-system.output.println('You are a teenager!');
+function numbers_ranges(x,y) {
+  if ((x >= 13 && x<=19 && y >=19 && y<=13))
+  console.log("You are a teenager!");
+  else return false; 
+}
